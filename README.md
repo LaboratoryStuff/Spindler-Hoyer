@@ -23,6 +23,9 @@ Items:
 
 - SH-021-075 : Post holder, 75 mm height.
 
+- SH-023-090 : Aerial Support, 90 mm between end holes.
+
+- SH-023-100 : Aerial Support, 100 mm between end holes.
 
 - SH-030-500 : Optical rail, 500 mm length.
 
